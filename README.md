@@ -7,7 +7,7 @@
 - I use WinForms alot for UI however, I'd like to learn more about WPF and third-party frameworks for UI.
 - Eventually, I will learn F#, TypeScript and VC++.
 
-- 📫 How to reach me via email.
+- 📫 How to reach me: via email.
 
 - 😄 Pronouns: he/him
 
