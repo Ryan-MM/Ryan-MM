@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Ryan. I've been tinkering with tech for as long as I can remember.
+- 👋 Hi, my name is Ryan. I've been tinkering with tech for as long as I can remember.
 
-- 👀 I’m always trying to better myself. I love a good challenge and appreciate attention to detail. I like reading about the history of IT, languages and theory.
+- I’m always trying to better myself. I love a good challenge and appreciate attention to detail. I enjoy reading about the history of IT and programming languages.
 
-- 🌱 I've been looking at new architectural models. 
-- The stack I work with presently is Windows-based, specifically .Net Framework and MSSQL Server. I enjoy developing enterprise solutions, particularly bespoke desktop apps.
-- I use WinForms alot for UI however, I'd like to learn more about WPF and third-party frameworks for UI.
-- Eventually, I will learn F#, TypeScript and VC++.
+- 🌱 I've been looking at new architectural models and UI frameworks. 
+- The stack I work with presently is Windows-native, specifically .Net (Core/Framework), MSSQL Server. I develope enterprise solutions, particularly line of business desktop apps.
 
 - 📫 How to reach me: via email.
 
